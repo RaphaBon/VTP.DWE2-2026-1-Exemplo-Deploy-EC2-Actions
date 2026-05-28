@@ -7,7 +7,7 @@
 <h1>Algum título</h1>
 <img src="/img/banner.jpg" alt="Banner">
 @if(10 > 15)
-    <p>A condição é true</p>
+    <p>Teste de alteração com deploy automático usando GitHub actions</p>
 @endif
 
 <p>{{ $nome }}</p>
